@@ -46,7 +46,7 @@
 <body>
 
 <header>
-    <h1>🚀 Welcome to Dileep ss official page & Silca key point duplicate key maker and holesalepadlock dealer🚀</h1>
+    <h1>🚀 Welcome to Dileep🚀</h1>
     <h3>Training | Development | Consulting</h3>
 </header>
 
